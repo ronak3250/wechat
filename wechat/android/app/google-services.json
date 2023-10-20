@@ -1,0 +1,29 @@
+  {
+  "project_info": {
+    "project_number": "94008047444",
+    "project_id": "wechat-3111c",
+    "storage_bucket": "wechat-3111c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94008047444:android:610bf76a4a375666b53ac1",
+        "android_client_info": {
+          "package_name": "com.ronak.chatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2GxvrPGeO4OyvdM04qeq5nYKz3MwJKG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
